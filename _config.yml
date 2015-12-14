@@ -1,7 +1,7 @@
 name: Vibeology
 favicon: null
-layout_spectrum: 0.6375836408697069
-typography_spectrum: 0.40027535730041564
+layout_spectrum: 0.50692
+typography_spectrum: 1
 title: The New Book of Names by Locq Fortune
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3b5b74'
     - '#b3b3b3'
   brandStrength: 0.5
-  lightness: 0.09882337134331465
-  saturation: 0.7427591877058148
-  rhythmicContrast: 0.33621931029483676
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
