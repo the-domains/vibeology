@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The New Book of Names by Locq Fortune]]></title>
+        <description><![CDATA[The New Book of Names by Locq Fortune]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 00:21:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vibeology]]></title>
+            <description><![CDATA[<article><h1>Vibeology</h1><p>Vibeology is the new E-Book of names by Locq Fortune. Your name is a unique vibration that was given to you at birth and which you shall respond to the rest of your life. This vibration frequency can be broken down into a numeric code and the meanings applied will astound you. The Author not only explains how to simply decode your name and those of your friends and family, he goes even further by dedicating a full page to every letter in the alphabet, describing in detail the character traits of those whose first names begin with each letter!  His E-book is available for download direct from the publisher at: http://www.lulu.com/spotlight/Locq  This great Holiday gift for friends and family is also on sale at Amazon and can be downloaded onto your kindle at Barnes & Noble and is also available now on Ibook, just look for "Vibeology".</p></article>]]></description>
+            <link>undefinedvibeology/index.html</link>
+            <guid isPermaLink="false">9bc9c8b8-ecb6-4211-8e39-c55951923f39</guid>
+            <pubDate>Mon, 14 Dec 2015 00:21:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
