@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'http://www.lulu.com/spotlight/Locq '
-datePublished: '2015-12-14T00:21:37.430Z'
-dateModified: '2015-12-14T00:19:48.481Z'
+datePublished: '2016-01-27T09:48:12.244Z'
+dateModified: '2015-12-14T00:22:08.497Z'
 title: Vibeology
 author: []
 authors: []
